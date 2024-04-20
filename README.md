@@ -2,5 +2,5 @@
 
 ## Exercícios
 
-1. tarefa.py
+1. exercicios/tarefa1.py
 
