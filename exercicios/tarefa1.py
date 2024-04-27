@@ -1,4 +1,4 @@
-from statistics import mean, median, mode, quantiles
+from statistics import mean, median, mode
 
 class Glicemia:
     def __init__(self, dia_semana, ano, valor_glicemia, valor_insulina, kcal, carb, qualidade_sono):
